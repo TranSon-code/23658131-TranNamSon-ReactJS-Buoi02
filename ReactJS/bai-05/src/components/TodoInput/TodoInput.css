@@ -1,0 +1,11 @@
+.todo-input-group {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.todo-input-group input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
